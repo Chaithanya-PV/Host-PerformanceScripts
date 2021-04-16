@@ -71,7 +71,7 @@
           </elementProp>
           <elementProp name="Authorization" elementType="Argument">
             <stringProp name="Argument.name">Authorization</stringProp>
-            <stringProp name="Argument.value">eyJ0eXAiOiJKV1QiLCJub25jZSI6IlBkbjQ2Vm9uSE5ESGV6Undoc24yQ2NVMlpFeTR6S2JWb19WLXN5Z0JPaDQiLCJhbGciOiJSUzI1NiIsIng1dCI6Im5PbzNaRHJPRFhFSzFqS1doWHNsSFJfS1hFZyIsImtpZCI6Im5PbzNaRHJPRFhFSzFqS1doWHNsSFJfS1hFZyJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTAwMDAtYzAwMC0wMDAwMDAwMDAwMDAiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8wMTU5ZTlkMC0wOWEwLTRlZGYtOTZiYS1hM2RlZWEzNjNjMjgvIiwiaWF0IjoxNjE4NDk5ODU4LCJuYmYiOjE2MTg0OTk4NTgsImV4cCI6MTYxODUwMzc1OCwiYWNjdCI6MCwiYWNyIjoiMSIsImFjcnMiOlsidXJuOnVzZXI6cmVnaXN0ZXJzZWN1cml0eWluZm8iLCJ1cm46bWljcm9zb2Z0OnJlcTEiLCJ1cm46bWljcm9zb2Z0OnJlcTIiLCJ1cm46bWljcm9zb2Z0OnJlcTMiLCJjMSIsImMyIiwiYzMiLCJjNCIsImM1IiwiYzYiLCJjNyIsImM4IiwiYzkiLCJjMTAiLCJjMTEiLCJjMTIiLCJjMTMiLCJjMTQiLCJjMTUiLCJjMTYiLCJjMTciLCJjMTgiLCJjMTkiLCJjMjAiLCJjMjEiLCJjMjIiLCJjMjMiLCJjMjQiLCJjMjUiXSwiYWlvIjoiQVNRQTIvOFRBQUFBVmZrZjRNVFJubXpwKzJCNzE5UWZaaktFc1pPbVEwb3k3V2RlSnhoU3k2UT0iLCJhbXIiOlsid2lhIl0sImFwcF9kaXNwbGF5bmFtZSI6IkdyYXBoIGV4cGxvcmVyIChvZmZpY2lhbCBzaXRlKSIsImFwcGlkIjoiZGU4YmM4YjUtZDlmOS00OGIxLWE4YWQtYjc0OGRhNzI1MDY0IiwiYXBwaWRhY3IiOiIwIiwiZmFtaWx5X25hbWUiOiJDaGFpdGhhbnlhIiwiZ2l2ZW5fbmFtZSI6IlBhcGFzYW5pIiwiaWR0eXAiOiJ1c2VyIiwiaXBhZGRyIjoiMTAzLjU1LjUzLjI1NCIsIm5hbWUiOiJDaGFpdGhhbnlhLCBQYXBhc2FuaSBAIEh5ZGVyYWJhZCIsIm9pZCI6ImEwZTU5ODM4LTlhYjktNGU4OS04NjUzLTI1NzFlZWYzMzk0MyIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0yMDIwMDg4NTI2LTE5MTA4NzY3OTMtMzE4MTcyNzEzLTc5NTQzIiwicGxhdGYiOiIzIiwicHVpZCI6IjEwMDMyMDAxMTg4QjQ4NTciLCJyaCI6IjAuQVJ3QTBPbFpBYUFKMzA2V3VxUGU2alk4S0xYSWk5NzUyYkZJcUsyM1NOcHlVR1FjQUgwLiIsInNjcCI6IkNhbGVuZGFycy5SZWFkV3JpdGUgQ29udGFjdHMuUmVhZFdyaXRlIERldmljZU1hbmFnZW1lbnRBcHBzLlJlYWQuQWxsIERldmljZU1hbmFnZW1lbnRBcHBzLlJlYWRXcml0ZS5BbGwgRGV2aWNlTWFuYWdlbWVudENvbmZpZ3VyYXRpb24uUmVhZC5BbGwgRGV2aWNlTWFuYWdlbWVudENvbmZpZ3VyYXRpb24uUmVhZFdyaXRlLkFsbCBEZXZpY2VNYW5hZ2VtZW50TWFuYWdlZERldmljZXMuUHJpdmlsZWdlZE9wZXJhdGlvbnMuQWxsIERldmljZU1hbmFnZW1lbnRNYW5hZ2VkRGV2aWNlcy5SZWFkLkFsbCBEZXZpY2VNYW5hZ2VtZW50TWFuYWdlZERldmljZXMuUmVhZFdyaXRlLkFsbCBEZXZpY2VNYW5hZ2VtZW50UkJBQy5SZWFkLkFsbCBEZXZpY2VNYW5hZ2VtZW50UkJBQy5SZWFkV3JpdGUuQWxsIERldmljZU1hbmFnZW1lbnRTZXJ2aWNlQ29uZmlnLlJlYWQuQWxsIERldmljZU1hbmFnZW1lbnRTZXJ2aWNlQ29uZmlnLlJlYWRXcml0ZS5BbGwgRGlyZWN0b3J5LkFjY2Vzc0FzVXNlci5BbGwgRGlyZWN0b3J5LlJlYWRXcml0ZS5BbGwgRmlsZXMuUmVhZFdyaXRlLkFsbCBHcm91cC5SZWFkLkFsbCBHcm91cC5SZWFkV3JpdGUuQWxsIElkZW50aXR5Umlza0V2ZW50LlJlYWQuQWxsIE1haWwuUmVhZFdyaXRlIE1haWxib3hTZXR0aW5ncy5SZWFkV3JpdGUgTm90ZXMuUmVhZFdyaXRlLkFsbCBvcGVuaWQgUGVvcGxlLlJlYWQgcHJvZmlsZSBSZXBvcnRzLlJlYWQuQWxsIFNpdGVzLlJlYWRXcml0ZS5BbGwgVGFza3MuUmVhZFdyaXRlIFVzZXIuUmVhZCBVc2VyLlJlYWRCYXNpYy5BbGwgVXNlci5SZWFkV3JpdGUgVXNlci5SZWFkV3JpdGUuQWxsIGVtYWlsIiwic2lnbmluX3N0YXRlIjpbImlua25vd25udHdrIl0sInN1YiI6InJ3WjkyUHJfVVV2Mmp2bXoyMDBFdlotOTA4U2tJd1BoVTN0QjZwRzctQzAiLCJ0ZW5hbnRfcmVnaW9uX3Njb3BlIjoiTkEiLCJ0aWQiOiIwMTU5ZTlkMC0wOWEwLTRlZGYtOTZiYS1hM2RlZWEzNjNjMjgiLCJ1bmlxdWVfbmFtZSI6IlBhcGFzYW5pLkNoYWl0aGFueWFAY2JyZS5jb20iLCJ1cG4iOiJQYXBhc2FuaS5DaGFpdGhhbnlhQGNicmUuY29tIiwidXRpIjoicmR5NDJ0aFk2RUtmWGFIdFFKM3NBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il0sInhtc19zdCI6eyJzdWIiOiJNQnlWYlk0a0hzVHU1NWQzVUFVTm55TG1meFVWb0hoNTQyRm1rTHdhTEpvIn0sInhtc190Y2R0IjoxMzg2NjY0NDQwfQ.VHhxcda4CxcpdmKjjktBYsH3S6MfhkI9zfObvfsGM6ehFWSI-1gn5NB7fmqwBe6Uqp18QSlP6VyTzXbpI693rQBlU2zj5aHRUDtPsCh7u6BaGYlSVCo7DdR9chvM-nAqY8P32TJroF9_NeFpj2uYZRc_U-6F7mkBntFZzeuOHpsIgSdxNbnSLC0WijT0vm9GZ_ENUy43AK30X1DYV9RhotifKBJodRIGhXhxmTG9Fep0YJ6GPHTt2OZ00k072HJK4mE7kmfpDZmyOG-Pwhk37J0C5Qs-EwIiRKofZmZoA75vcGUNiGb5ktPrAlr-7klGze3UDHdyZbVKHsHi1_r0HQ</stringProp>
+            <stringProp name="Argument.value">eyJ0eXAiOiJKV1QiLCJub25jZSI6IlJGdVVHNGFRaTdUbFVKSVFlMHZrNkhTVnlqZzRqQXFzcU0xMHNpRVlYRWciLCJhbGciOiJSUzI1NiIsIng1dCI6Im5PbzNaRHJPRFhFSzFqS1doWHNsSFJfS1hFZyIsImtpZCI6Im5PbzNaRHJPRFhFSzFqS1doWHNsSFJfS1hFZyJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTAwMDAtYzAwMC0wMDAwMDAwMDAwMDAiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC8wMTU5ZTlkMC0wOWEwLTRlZGYtOTZiYS1hM2RlZWEzNjNjMjgvIiwiaWF0IjoxNjE4NTU5NzE3LCJuYmYiOjE2MTg1NTk3MTcsImV4cCI6MTYxODU2MzYxNywiYWNjdCI6MCwiYWNyIjoiMSIsImFjcnMiOlsidXJuOnVzZXI6cmVnaXN0ZXJzZWN1cml0eWluZm8iLCJ1cm46bWljcm9zb2Z0OnJlcTEiLCJ1cm46bWljcm9zb2Z0OnJlcTIiLCJ1cm46bWljcm9zb2Z0OnJlcTMiLCJjMSIsImMyIiwiYzMiLCJjNCIsImM1IiwiYzYiLCJjNyIsImM4IiwiYzkiLCJjMTAiLCJjMTEiLCJjMTIiLCJjMTMiLCJjMTQiLCJjMTUiLCJjMTYiLCJjMTciLCJjMTgiLCJjMTkiLCJjMjAiLCJjMjEiLCJjMjIiLCJjMjMiLCJjMjQiLCJjMjUiXSwiYWlvIjoiRTJaZ1lPRHJ1MTBXblhuajkwelRqWWJUbjRrMm1oaDg5M3NReUxCcFgwK1FRdDZxOENJQSIsImFtciI6WyJ3aWEiXSwiYXBwX2Rpc3BsYXluYW1lIjoiR3JhcGggZXhwbG9yZXIgKG9mZmljaWFsIHNpdGUpIiwiYXBwaWQiOiJkZThiYzhiNS1kOWY5LTQ4YjEtYThhZC1iNzQ4ZGE3MjUwNjQiLCJhcHBpZGFjciI6IjAiLCJmYW1pbHlfbmFtZSI6IkNoYWl0aGFueWEiLCJnaXZlbl9uYW1lIjoiUGFwYXNhbmkiLCJpZHR5cCI6InVzZXIiLCJpcGFkZHIiOiIxMDMuNTUuNTMuMjU0IiwibmFtZSI6IkNoYWl0aGFueWEsIFBhcGFzYW5pIEAgSHlkZXJhYmFkIiwib2lkIjoiYTBlNTk4MzgtOWFiOS00ZTg5LTg2NTMtMjU3MWVlZjMzOTQzIiwib25wcmVtX3NpZCI6IlMtMS01LTIxLTIwMjAwODg1MjYtMTkxMDg3Njc5My0zMTgxNzI3MTMtNzk1NDMiLCJwbGF0ZiI6IjMiLCJwdWlkIjoiMTAwMzIwMDExODhCNDg1NyIsInJoIjoiMC5BUndBME9sWkFhQUozMDZXdXFQZTZqWThLTFhJaTk3NTJiRklxSzIzU05weVVHUWNBSDAuIiwic2NwIjoiQ2FsZW5kYXJzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUgRGV2aWNlTWFuYWdlbWVudEFwcHMuUmVhZC5BbGwgRGV2aWNlTWFuYWdlbWVudEFwcHMuUmVhZFdyaXRlLkFsbCBEZXZpY2VNYW5hZ2VtZW50Q29uZmlndXJhdGlvbi5SZWFkLkFsbCBEZXZpY2VNYW5hZ2VtZW50Q29uZmlndXJhdGlvbi5SZWFkV3JpdGUuQWxsIERldmljZU1hbmFnZW1lbnRNYW5hZ2VkRGV2aWNlcy5Qcml2aWxlZ2VkT3BlcmF0aW9ucy5BbGwgRGV2aWNlTWFuYWdlbWVudE1hbmFnZWREZXZpY2VzLlJlYWQuQWxsIERldmljZU1hbmFnZW1lbnRNYW5hZ2VkRGV2aWNlcy5SZWFkV3JpdGUuQWxsIERldmljZU1hbmFnZW1lbnRSQkFDLlJlYWQuQWxsIERldmljZU1hbmFnZW1lbnRSQkFDLlJlYWRXcml0ZS5BbGwgRGV2aWNlTWFuYWdlbWVudFNlcnZpY2VDb25maWcuUmVhZC5BbGwgRGV2aWNlTWFuYWdlbWVudFNlcnZpY2VDb25maWcuUmVhZFdyaXRlLkFsbCBEaXJlY3RvcnkuQWNjZXNzQXNVc2VyLkFsbCBEaXJlY3RvcnkuUmVhZFdyaXRlLkFsbCBGaWxlcy5SZWFkV3JpdGUuQWxsIEdyb3VwLlJlYWQuQWxsIEdyb3VwLlJlYWRXcml0ZS5BbGwgSWRlbnRpdHlSaXNrRXZlbnQuUmVhZC5BbGwgTWFpbC5SZWFkV3JpdGUgTWFpbGJveFNldHRpbmdzLlJlYWRXcml0ZSBOb3Rlcy5SZWFkV3JpdGUuQWxsIG9wZW5pZCBQZW9wbGUuUmVhZCBwcm9maWxlIFJlcG9ydHMuUmVhZC5BbGwgU2l0ZXMuUmVhZFdyaXRlLkFsbCBUYXNrcy5SZWFkV3JpdGUgVXNlci5SZWFkIFVzZXIuUmVhZEJhc2ljLkFsbCBVc2VyLlJlYWRXcml0ZSBVc2VyLlJlYWRXcml0ZS5BbGwgZW1haWwiLCJzaWduaW5fc3RhdGUiOlsiaW5rbm93bm50d2siXSwic3ViIjoicndaOTJQcl9VVXYyanZtejIwMEV2Wi05MDhTa0l3UGhVM3RCNnBHNy1DMCIsInRlbmFudF9yZWdpb25fc2NvcGUiOiJOQSIsInRpZCI6IjAxNTllOWQwLTA5YTAtNGVkZi05NmJhLWEzZGVlYTM2M2MyOCIsInVuaXF1ZV9uYW1lIjoiUGFwYXNhbmkuQ2hhaXRoYW55YUBjYnJlLmNvbSIsInVwbiI6IlBhcGFzYW5pLkNoYWl0aGFueWFAY2JyZS5jb20iLCJ1dGkiOiIzM3NYOHBBY3dFcTZBUjZ0VzY0WkFBIiwidmVyIjoiMS4wIiwid2lkcyI6WyJiNzlmYmY0ZC0zZWY5LTQ2ODktODE0My03NmIxOTRlODU1MDkiXSwieG1zX3N0Ijp7InN1YiI6Ik1CeVZiWTRrSHNUdTU1ZDNVQVVObnlMbWZ4VVZvSGg1NDJGbWtMd2FMSm8ifSwieG1zX3RjZHQiOjEzODY2NjQ0NDB9.GG-l0mOOLtIMEVKrgWdaJyJBhtAHN4AFRMsCMLObwHYfKstQL8ACWkIQhr60YiEHZrrWZ1fXMN7G-kLczaThp1a0b_2vjWbLICpa72iKdCoV4HxgtIY0eT08ykDHaCVKZI5xYK_IL3pbWl6lDw4CaSIe8gKXFftb94LQRRbDPmLRxze2CQn8nlIpxpk8V4ibShnph_GamtTxkeDI6D83vS_EptDHSWqSVzDeiYfF06lpwjxJ5FjNQ_BoO6GujlXgoHbG4UQRqLrOu3mCpakE-d6M6hk_WQ3ojNDJhcSkEz9JiH2h39nGbHigQhzDYqrilYhC-UyllI3HPZhHgwfSSQ</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="Environment" elementType="Argument">
@@ -114,7 +114,7 @@
         <stringProp name="variableNames"></stringProp>
       </CSVDataSet>
       <hashTree/>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Booking" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Booking" enabled="false">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
@@ -1519,7 +1519,7 @@
             <stringProp name="HTTPSampler.port"></stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">${Environment}/customer/3310d814-0e32-46ba-90d8-140e3216ba81/customerconfig</stringProp>
+            <stringProp name="HTTPSampler.path">${Environment}/customer/3310d814-0e32-46ba-90d8-140e3216ba81</stringProp>
             <stringProp name="HTTPSampler.method">GET</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1738,28 +1738,52 @@
                 <stringProp name="Header.name">Content-Type</stringProp>
                 <stringProp name="Header.value">application/json</stringProp>
               </elementProp>
-              <elementProp name="" elementType="Header">
-                <stringProp name="Header.name">x-id-token</stringProp>
-                <stringProp name="Header.value">eyJhbGciOiJSUzI1NiIsImtpZCI6ImUxOTdiZjJlODdiZDE5MDU1NzVmOWI2ZTVlYjQyNmVkYTVkNTc0ZTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI4OTE2MDU5NDgxMDEtNXRkbjYyOHVyZ25sdjhndjc4dXFkdnA4OHU3OG02Y2kuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI4OTE2MDU5NDgxMDEtNXRkbjYyOHVyZ25sdjhndjc4dXFkdnA4OHU3OG02Y2kuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDQzNzA2MzUxNDM1MjQwNDcwMTgiLCJoZCI6ImNicmVob3N0LmNvbSIsImVtYWlsIjoidGVzdGluZ0BjYnJlaG9zdC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjVvaEZzcnotelB1bHk3dmlhcHhMN2ciLCJub25jZSI6IjNiZDRkZDE4NjcwMjQ3YWFhZDM5NDJmOWQyMDhjNDlmIiwibmFtZSI6IlRlc3QgQWNjb3VudCIsInBpY3R1cmUiOiJodHRwczovL2xoNi5nb29nbGV1c2VyY29udGVudC5jb20vLUFrUGM2aURVTHhFL0FBQUFBQUFBQUFJL0FBQUFBQUFBQUFBL0FNWnV1Y21RWkZDblA0WHNrNGNwSnhreFJkTXpQM05iN2cvczk2LWMvcGhvdG8uanBnIiwiZ2l2ZW5fbmFtZSI6IlRlc3QiLCJmYW1pbHlfbmFtZSI6IkFjY291bnQiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTYwODE0NTQ3NiwiZXhwIjoxNjA4MTQ5MDc2LCJqdGkiOiJmOTZhNTdkMWE0NzRlNDFhNWQ2NmM4ZGQ5NWIxNGQ5MDc5ZTk4MTcxIn0.A6FX6vLoTYnAzccgsFDWBOfEhdIGndOzwzeKo7FjNSobZ2sIOm9sR8XbaBv8KM8ZmeJLEVhdA0auNjFZIO4qQw6PMmib02-F-0F2EsueSUzxyjZ7XKZU8Jcu3biYnvqE-OdqJV1Wo5NzGRcMM8jhMPDVfwm1lzgx-dG77C-RZ5WCJBwNeXhTXl7m_qasN1mgtYEJmTV_v-OLHiitn2E7j-AVaesTgA_pgz0Gm4ioEH3lMgVbR6soEf5lcHyD5VthYEStz9syaApCiOF76X1sP3qqvQTL5k3H9PGTaPnyI_Nr5sBFNnRHHLd8XOcMJwpj-vGM9pLCc2mrzGL7Xt9QOQ</stringProp>
-              </elementProp>
             </collectionProp>
           </HeaderManager>
           <hashTree/>
+          <BoundaryExtractor guiclass="BoundaryExtractorGui" testclass="BoundaryExtractor" testname="InitID" enabled="true">
+            <stringProp name="BoundaryExtractor.useHeaders">false</stringProp>
+            <stringProp name="BoundaryExtractor.refname">InitID</stringProp>
+            <stringProp name="BoundaryExtractor.lboundary">&quot;id&quot;:&quot;</stringProp>
+            <stringProp name="BoundaryExtractor.rboundary">&quot;,&quot;auditInfo&quot;</stringProp>
+            <stringProp name="BoundaryExtractor.default">NotFound</stringProp>
+            <boolProp name="BoundaryExtractor.default_empty_value">false</boolProp>
+            <stringProp name="BoundaryExtractor.match_number">1</stringProp>
+            <stringProp name="Sample.scope">all</stringProp>
+          </BoundaryExtractor>
+          <hashTree/>
+          <BoundaryExtractor guiclass="BoundaryExtractorGui" testclass="BoundaryExtractor" testname="RoleID" enabled="true">
+            <stringProp name="BoundaryExtractor.useHeaders">false</stringProp>
+            <stringProp name="BoundaryExtractor.refname">RoleID</stringProp>
+            <stringProp name="BoundaryExtractor.lboundary">&quot;roles&quot;:[&quot;</stringProp>
+            <stringProp name="BoundaryExtractor.rboundary">&quot;]}</stringProp>
+            <stringProp name="BoundaryExtractor.default">NotFound</stringProp>
+            <boolProp name="BoundaryExtractor.default_empty_value">false</boolProp>
+            <stringProp name="BoundaryExtractor.match_number">1</stringProp>
+            <stringProp name="Sample.scope">all</stringProp>
+          </BoundaryExtractor>
+          <hashTree/>
         </hashTree>
+        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
+          <boolProp name="displayJMeterProperties">false</boolProp>
+          <boolProp name="displayJMeterVariables">true</boolProp>
+          <boolProp name="displaySystemProperties">false</boolProp>
+        </DebugSampler>
+        <hashTree/>
         <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="User By Id" enabled="true">
           <boolProp name="TransactionController.includeTimers">false</boolProp>
           <boolProp name="TransactionController.parent">true</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api.cbrehost.com/user/dfe10a99-4ce9-42fa-a10a-994ce9d2faa6" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api.cbrehost.com/perf/user/dfe10a99-4ce9-42fa-a10a-994ce9d2faa6" enabled="true">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
               <collectionProp name="Arguments.arguments"/>
             </elementProp>
-            <stringProp name="HTTPSampler.domain">api.cbrehost.com</stringProp>
+            <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
             <stringProp name="HTTPSampler.port"></stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">user/dfe10a99-4ce9-42fa-a10a-994ce9d2faa6</stringProp>
+            <stringProp name="HTTPSampler.path">${Environment}/user/${InitID}</stringProp>
             <stringProp name="HTTPSampler.method">GET</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1797,14 +1821,14 @@
           <boolProp name="TransactionController.parent">true</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-nonp.cbrehost.com/dev/user-configuration/search/" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-nonp.cbrehost.com/perf/user-configuration/search/" enabled="true">
             <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
               <collectionProp name="Arguments.arguments">
                 <elementProp name="" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
                   <stringProp name="Argument.value">{&#xd;
-    &quot;userId&quot;: &quot;5fef3c30-3006-4070-9f11-77da7ab87070&quot;&#xd;
+    &quot;userId&quot;: &quot;${InitID}&quot;&#xd;
 }</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
@@ -1814,7 +1838,7 @@
             <stringProp name="HTTPSampler.port"></stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">dev/user-configuration/search/</stringProp>
+            <stringProp name="HTTPSampler.path">${Environment}/user-configuration/search/</stringProp>
             <stringProp name="HTTPSampler.method">POST</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1825,7 +1849,7 @@
             <stringProp name="HTTPSampler.response_timeout"></stringProp>
           </HTTPSamplerProxy>
           <hashTree/>
-          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header manager" enabled="false">
+          <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header manager" enabled="true">
             <collectionProp name="HeaderManager.headers">
               <elementProp name="Accept" elementType="Header">
                 <stringProp name="Header.name">api-version</stringProp>
@@ -1852,15 +1876,15 @@
           <boolProp name="TransactionController.parent">true</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api.cbrehost.com/role/11715964-632d-4030-b159-64632d803019" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api.cbrehost.com/perf/role/11715964-632d-4030-b159-64632d803019" enabled="true">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
               <collectionProp name="Arguments.arguments"/>
             </elementProp>
-            <stringProp name="HTTPSampler.domain">api.cbrehost.com</stringProp>
+            <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
             <stringProp name="HTTPSampler.port"></stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">role/11715964-632d-4030-b159-64632d803019</stringProp>
+            <stringProp name="HTTPSampler.path">${Environment}/role/${RoleID}</stringProp>
             <stringProp name="HTTPSampler.method">GET</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
@@ -1890,7 +1914,7 @@
           <hashTree/>
         </hashTree>
       </hashTree>
-      <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
+      <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="false">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
@@ -1927,7 +1951,7 @@
         <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
-      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="false">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
